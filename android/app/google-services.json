@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902734935199",
+    "project_id": "pokemon-app-getx",
+    "storage_bucket": "pokemon-app-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902734935199:android:1f6559ba0e02a9459fdeaa",
+        "android_client_info": {
+          "package_name": "br.com.pokemon.fellipe.pokemon_app_getx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902734935199-j05qecn3e0h5vfe8pbe086btga1r3iuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUlJ1Q_ZAbqNV83D4816EtVOEaLGM00d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902734935199-j05qecn3e0h5vfe8pbe086btga1r3iuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
