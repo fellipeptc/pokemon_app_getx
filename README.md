@@ -1,4 +1,4 @@
-# pokemon_app_getx (versão 2)
+# pokemon_app_getx
 
 Desenvolvedor: Fellipe Prates
 
@@ -6,18 +6,18 @@ email: fellipeptc@hotmail.com
 
 ## Getting Started
 
-Aplicativo desenvolvido com GetX em Flutter.
-  - Api pokeapi.co
-  - Firebase
+Aplicação desenvolvida em Flutter e foi utilizado:
+  - RestApi pokeapi.co
+  - Firebase (Auth e Firestore)
   - Modelos de classe e objeto
-  - Repositorios
+  - Providers e repositories
   - Widgets componentizada
   - Internacionalização
   - Controladores
-  - Injeção de dependências
+  - Injeção de dependências GetX
+  - Gerenciamento de rotas GetX
+  - Uso de animações, imagens e gráficos
   
-Senha para login: 123456
-
 ## Gerar icone do app
 flutter pub run flutter_launcher_icons:main
 
